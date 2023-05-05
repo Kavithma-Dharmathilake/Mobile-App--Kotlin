@@ -1,3 +1,39 @@
 <resources>
-    <string name="app_name">Sample Project _ Mobile Application Development _Kotlin</string>
+    <string name="app_name">mad-business-android-app</string>
+    <string name="emailOrUN">Email or Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="rePW">Re-enter Password</string>
+    <string name="totSpendingView">This month spending</string>
+    <string name="month">March</string>
+    <string name="date">15</string>
+    <string name="history">History</string>
+    <string name="Statitics">Statistics</string>
+    <string name="electricty">Electricty Bill</string>
+    <string name="viewMore">More</string>
+    <string name="waterBill">Water Bill</string>
+    <string name="transport">Transportation</string>
+    <string name="addnewExpense">Add New Expense</string>
+    <string name="submit">Submit</string>
+    <string name="exp_update">Update</string>
+    <string name="exp_delete">Delete</string>
+    <string name="Settings">Settings</string>
+    <string name="eidt_pro_set">Edit Profile</string>
+
+    <string-array name="expense_cat">
+        <item></item>
+        <item>Wages and salaries</item>
+        <item>Electricty bill</item>
+        <item>Water bill</item>
+        <item>Telephone bill</item>
+        <item>Insurance</item>
+        <item>Fuel</item>
+        <item>Transportation</item>
+        <item>Bank charges</item>
+        <item>Loan Interest</item>
+        <item>Repair and maintenance</item>
+        <item>Rent</item>
+        <item>Taxes</item>
+        <item>Other</item>
+    </string-array>
 </resources>
